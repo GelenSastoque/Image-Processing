@@ -1,0 +1,33 @@
+﻿  Prueba Opengl dos histograma.cpp
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(115,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(117,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(134,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(136,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(160,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(161,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(155,26): warning C4101: 'bc': variable local sin referencia
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(155,18): warning C4101: 'rc': variable local sin referencia
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(155,22): warning C4101: 'gc': variable local sin referencia
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(183,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(185,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(205,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(207,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(236,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(238,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(259,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(261,29): warning C4018: '<': no coinciden signed/unsigned
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Release\Prueba Opengl dos histograma.exe : fatal error LNK1281: No se puede generar la imagen SAFESEH.

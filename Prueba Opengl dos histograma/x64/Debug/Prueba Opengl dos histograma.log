@@ -1,0 +1,12 @@
+﻿Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutInit sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutInitDisplayMode sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutInitWindowPosition sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutInitWindowSize sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutMainLoop sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutCreateWindow sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutCreateMenu sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutAddMenuEntry sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutAttachMenu sin resolver al que se hace referencia en la función main
+Prueba Opengl dos histograma.obj : error LNK2019: símbolo externo glutDisplayFunc sin resolver al que se hace referencia en la función main
+glut32.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\x64\Debug\Prueba Opengl dos histograma.exe : fatal error LNK1120: 10 externos sin resolver

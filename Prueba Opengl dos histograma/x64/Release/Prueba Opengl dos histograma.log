@@ -1,0 +1,29 @@
+﻿  Prueba Opengl dos histograma.cpp
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(115,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(117,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(134,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(136,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(160,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(161,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(155,26): warning C4101: 'bc': variable local sin referencia
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(155,18): warning C4101: 'rc': variable local sin referencia
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(155,22): warning C4101: 'gc': variable local sin referencia
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(183,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(185,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(205,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(207,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(236,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(238,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(259,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\Prueba Opengl dos histograma\Prueba Opengl dos histograma.cpp(261,29): warning C4018: '<': no coinciden signed/unsigned
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutInit sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutAddMenuEntry sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutAttachMenu sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutCreateWindow sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutInitDisplayMode sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutDisplayFunc sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutMainLoop sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutInitWindowPosition sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutCreateMenu sin resolver
+Prueba Opengl dos histograma.obj : error LNK2001: símbolo externo glutInitWindowSize sin resolver
+C:\Users\1742284\Documents\Septimo semestre\Procesamiento de imagenes\Prueba Opengl dos histograma\x64\Release\Prueba Opengl dos histograma.exe : fatal error LNK1120: 10 externos sin resolver
